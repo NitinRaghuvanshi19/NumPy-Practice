@@ -17,21 +17,6 @@ This repository contains practical examples and exercises covering major NumPy c
 
 ---
 
-## 📂 Repository Structure
-
-```
-
-numpy-for-data-science/
-│
-├── arrays.ipynb
-├── indexing\_slicing.ipynb
-├── broadcasting.ipynb
-├── matrix\_operations.ipynb
-├── io\_operations.ipynb
-└── README.md
-
-````
-
 ---
 
 ## 🛠 Requirements
