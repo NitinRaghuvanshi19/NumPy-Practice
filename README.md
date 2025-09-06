@@ -1,8 +1,3 @@
-Absolutely! Here's **everything in complete Markdown format**, ready to paste into your `README.md` file for your **NumPy for Data Science** GitHub repository:
-
----
-
-```markdown
 # NumPy for Data Science 🚀🧮
 
 This repository contains practical examples and exercises covering major NumPy concepts used in data science and scientific computing. Topics include array creation, slicing, indexing, broadcasting, matrix operations, and more.
@@ -78,9 +73,4 @@ If you're also learning data science or working on similar projects, feel free t
 \#DataScienceLearning #100DaysOfCode #PythonForDataScience #WomenInTech
 \#TechJourney #DataCamp #LinkedInLearning
 
----
 
-```
-
-
-```
