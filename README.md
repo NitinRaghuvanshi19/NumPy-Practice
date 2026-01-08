@@ -6,7 +6,7 @@ This repository contains practical examples and exercises covering major NumPy c
 
 ## 📌 Topics Covered
 
-✅ Array creation, manipulation, and slicing  
+✅ Array creation, manipulation, and slicing   
 ✅ Data types and type conversion  
 ✅ Arithmetic & aggregate operations  
 ✅ Boolean and fancy indexing 
