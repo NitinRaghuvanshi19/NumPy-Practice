@@ -15,7 +15,7 @@ This repository contains practical examples and exercises covering major NumPy c
 ✅ Transposing and broadcasting  
 ✅ Advanced I/O and matrix operations  
 
----
+--- 
 
 ---
 
