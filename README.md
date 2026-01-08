@@ -4,7 +4,7 @@ This repository contains practical examples and exercises covering major NumPy c
 
 ---
   
-## 📌 Topics Covered
+## 📌 Topics Covered   
 
 ✅ Array creation, manipulation, and slicing   
 ✅ Data types and type conversion  
