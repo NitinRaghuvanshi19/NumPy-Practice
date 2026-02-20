@@ -1,4 +1,4 @@
-#NumPy for Data Science 🚀🎯
+N#NumPy for Data Science 🚀🎯
 
 This repository contains practical examples and exercises covering major NumPy concepts used in data science and scientific computing. Topics include array creation, slicing, indexing, broadcasting, matrix operations, and more.
 
