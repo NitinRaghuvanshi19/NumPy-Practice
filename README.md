@@ -1,7 +1,6 @@
 
 Nitin
 Raghuvanshi 
-Rajput 
 
 #NumPy for Data Science 🚀🎯
 
